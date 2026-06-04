@@ -1,4 +1,5 @@
 import { useMemo, useState } from 'react'
+import { Analytics } from '@vercel/analytics/react'
 import './styles.css'
 import { Controls } from './components/Controls'
 import { CreditRatingChart } from './components/CreditRatingChart'
@@ -121,6 +122,7 @@ function App() {
       <PresidentComparison />
       <DebtEvents />
       <References />
+      <Analytics />
     </main>
   )
 }
