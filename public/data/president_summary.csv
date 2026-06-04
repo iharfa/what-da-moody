@@ -1,0 +1,7 @@
+administration,president,party,startDate,endDate,agency,startRating,startOutlook,startRiskScore,endRating,endOutlook,endRiskScore,riskScoreChange,interpretation
+Yameen administration,Abdulla Yameen Abdul Gayoom,PPM,2016-09-01,2018-11-16,Moody's,B2,Stable,15,B2,Negative,15,0,No notch change; outlook changed from Stable to Negative
+Yameen administration,Abdulla Yameen Abdul Gayoom,PPM,2016-09-01,2018-11-16,Fitch,B+,Stable,14,B+,Stable,14,0,No notch change
+Solih administration,Ibrahim Mohamed Solih,MDP,2018-11-17,2023-11-16,Moody's,B2,Negative,15,Caa1,Stable,17,2,Weaker by 2 notch(es)
+Solih administration,Ibrahim Mohamed Solih,MDP,2018-11-17,2023-11-16,Fitch,B+,Stable,14,B-,Negative,16,2,Weaker by 2 notch(es)
+Muizzu administration,Dr Mohamed Muizzu,PNC,2023-11-17,2026-06-04,Moody's,Caa1,Stable,17,Caa2,Stable,18,1,Weaker by 1 notch(es)
+Muizzu administration,Dr Mohamed Muizzu,PNC,2023-11-17,2026-06-04,Fitch,B-,Negative,16,CCC-,,19,3,Weaker by 3 notch(es)

@@ -1,0 +1,20 @@
+date,agency,previousRating,previousOutlook,rating,outlook,riskScore,creditQualityScore,president,party,administration,action,notes,sourceUrl
+2016-09-02,Moody's,NR,,B2,Stable,15,7,Abdulla Yameen Abdul Gayoom,PPM,Yameen administration,First sovereign rating assigned,Ministry notes first Maldives sovereign rating was Moody's B2 in September 2016.,https://www.finance.gov.mv/debt-management/credit-rating
+2017-05-15,Fitch,NR,,B+,Stable,14,8,Abdulla Yameen Abdul Gayoom,PPM,Yameen administration,First Fitch sovereign rating assigned,Ministry notes Fitch became the second agency to rate Maldives in May 2017 with B+.,https://www.finance.gov.mv/media/news/second-sovereign-credit-rating-issued-for-the-maldives
+2018-05-15,Fitch,B+,Stable,B+,Stable,14,8,Abdulla Yameen Abdul Gayoom,PPM,Yameen administration,Affirmed,,https://www.fitchratings.com/research/sovereigns/fitch-affirms-maldives-at-b-outlook-stable-15-05-2018
+2018-07-25,Moody's,B2,Stable,B2,Negative,15,7,Abdulla Yameen Abdul Gayoom,PPM,Yameen administration,Outlook revised to Negative,,https://tradingeconomics.com/maldives/rating
+2019-05-27,Fitch,B+,Stable,B+,Stable,14,8,Ibrahim Mohamed Solih,MDP,Solih administration,Affirmed,,https://www.fitchratings.com/research/sovereigns/correction-fitch-affirms-maldives-at-b-outlook-stable-27-05-2019
+2019-11-19,Moody's,B2,Negative,B2,Negative,15,7,Ibrahim Mohamed Solih,MDP,Solih administration,Affirmed,,https://www.finance.gov.mv/debt-management/credit-rating
+2020-03-30,Fitch,B+,Stable,B,Negative,15,7,Ibrahim Mohamed Solih,MDP,Solih administration,Downgraded,COVID tourism shock and weakened external buffers.,https://www.fitchratings.com/research/sovereigns/fitch-downgrades-maldives-to-b-outlook-revised-to-negative-30-03-2020
+2020-05-21,Moody's,B2,Negative,B3,Negative,16,6,Ibrahim Mohamed Solih,MDP,Solih administration,Downgraded,COVID tourism shock.,https://tradingeconomics.com/maldives/rating
+2020-11-05,Fitch,B,Negative,CCC,,18,4,Ibrahim Mohamed Solih,MDP,Solih administration,Downgraded,,https://www.fitchratings.com/research/sovereigns/fitch-downgrades-maldives-to-ccc-05-11-2020
+2021-08-17,Moody's,B3,Negative,Caa1,Stable,17,5,Ibrahim Mohamed Solih,MDP,Solih administration,Downgraded and outlook changed to Stable,,https://www.finance.gov.mv/debt-management/credit-rating
+2021-10-28,Fitch,CCC,,B-,Stable,16,6,Ibrahim Mohamed Solih,MDP,Solih administration,Upgraded,Tourism rebound after 2020 contraction.,https://www.fitchratings.com/research/sovereigns/fitch-upgrades-maldives-to-b-outlook-stable-28-10-2021
+2022-10-13,Fitch,B-,Stable,B-,Negative,16,6,Ibrahim Mohamed Solih,MDP,Solih administration,Outlook revised to Negative,,https://www.finance.gov.mv/debt-management/credit-rating
+2024-06-26,Fitch,B-,Negative,CCC+,,17,5,Dr Mohamed Muizzu,PNC,Muizzu administration,Downgraded,External financing and liquidity risks.,https://www.fitchratings.com/research/sovereigns/fitch-downgrades-maldives-long-term-idr-to-ccc-26-06-2024
+2024-08-29,Fitch,CCC+,,CC,,20,2,Dr Mohamed Muizzu,PNC,Muizzu administration,Downgraded,Increased default risk and falling reserves.,https://www.fitchratings.com/research/sovereigns/fitch-downgrades-maldives-to-cc-29-08-2024
+2024-09-11,Moody's,Caa1,Stable,Caa2,Under Review,18,4,Dr Mohamed Muizzu,PNC,Muizzu administration,Downgraded and placed under review,,https://www.fxempire.com/credit-ratings/maldives
+2024-12-03,Moody's,Caa2,Under Review,Caa2,Negative,18,4,Dr Mohamed Muizzu,PNC,Muizzu administration,Outlook set to Negative,,https://www.fxempire.com/credit-ratings/maldives
+2025-06-12,Fitch,CC,,CC,,20,2,Dr Mohamed Muizzu,PNC,Muizzu administration,Affirmed,,https://www.fitchratings.com/research/sovereigns/fitch-affirms-maldives-at-cc-12-06-2025
+2025-11-27,Moody's,Caa2,Negative,Caa2,Stable,18,4,Dr Mohamed Muizzu,PNC,Muizzu administration,Affirmed and outlook revised to Stable,,https://tradingeconomics.com/maldives/rating
+2026-06-03,Fitch,CC,,CCC-,,19,3,Dr Mohamed Muizzu,PNC,Muizzu administration,Upgraded,"Default risk eased after Sukuk settlement, but fiscal and external vulnerabilities remain high.",https://www.fitchratings.com/research/sovereigns/fitch-upgrades-maldives-to-ccc-03-06-2026
